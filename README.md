@@ -20,3 +20,24 @@ Summary of the video:
 * Then, RTL → GDS.  
 * Finally, it is given to industry to get the chip, which is known as Tapeout.  
 
+
+## Task 2: Tool Installation
+
+**Tools Installed on Ubuntu VM and Verified Versions:**
+
+VirtualBox:
+VirtualBox is a virtualization software that allows running Linux on a Windows host. It is used to install and test EDA tools in an isolated environment.
+
+Yosys:
+Yosys is an open-source RTL synthesis tool that converts Verilog designs into gate-level netlists, preparing the design for layout tools or FPGA implementation.
+
+Icarus Verilog (iverilog):
+Icarus Verilog is a Verilog simulator that verifies RTL designs using testbenches before synthesis, generating simulation outputs for analysis.
+
+GTKWave:
+GTKWave is a waveform viewer for simulation outputs (VCD files) and is used to visualize signal behavior over time to debug and verify digital designs.
+
+## Notes:
+- Screenshots are taken from Ubuntu VM showing installed versions.  
+- All tools are installed successfully as per Week 1 instructions.  
+- This repo documents Task 1 and Task 2 for Week 1 of VSD-RISC-V Tapeout course.
