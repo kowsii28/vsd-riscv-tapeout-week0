@@ -2,7 +2,7 @@
 “EDA Tools installation for VSD course Week 1”
 
 # Week 1 - Tools Installation
-![Video Screenshot](video_summary.png)
+![Video Screenshot](Video_summary.png)
 
 # Task 1: Summary of Video
 
