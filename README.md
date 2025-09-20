@@ -39,7 +39,10 @@ GTKWave is a waveform viewer for simulation outputs (VCD files) and is used to v
 
 #Commands to install tools
 
+
 Steps to intall yosys
+
+
 
 Yosys 
 
@@ -62,6 +65,8 @@ $ make
 
 $ sudo make install
 
+
+
 Steps to install iverilog 
 
 Iverilog 
@@ -69,6 +74,8 @@ Iverilog
 $ sudo apt-get update 
 
 $ sudo apt-get install iverilog 
+
+
 
 Steps to install gtkwave 
 
